@@ -9,7 +9,7 @@ Outputs pattern in random color
 ```
 
 - [x] Generate output of pattern
-- [] Find and import random color generator
+- [x] Find and import random color generator
 
 ```
 node index.js red dark
@@ -20,4 +20,4 @@ Outputs pattern in chosen color and luminosity
 ```
 
 -[x] Fetch user input
--[] Use input in color library
+-[x] Use input in color library
